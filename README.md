@@ -1,8 +1,8 @@
 Instructions:
 
-git clone https://saradraj@github.com/saradraj/shiny-application.git 
-cd shiny-application
-mvn spring-boot:run
+- git clone https://saradraj@github.com/saradraj/shiny-application.git 
+- cd shiny-application
+- mvn spring-boot:run
 
 The following are not required but might be nice additions to the exercise.
 
