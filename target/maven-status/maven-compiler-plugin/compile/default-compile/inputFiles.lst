@@ -1,8 +1,7 @@
-/Users/sanjeevgiri/wenv/axws/ad/src/main/java/com/sarad/shinyapp/partner/PartnerRepository.java
-/Users/sanjeevgiri/wenv/axws/ad/src/main/java/com/sarad/shinyapp/ad/AdDto.java
-/Users/sanjeevgiri/wenv/axws/ad/src/main/java/com/sarad/shinyapp/ad/AdService.java
-/Users/sanjeevgiri/wenv/axws/ad/src/main/java/com/sarad/shinyapp/AdApplication.java
-/Users/sanjeevgiri/wenv/axws/ad/src/main/java/com/sarad/shinyapp/partner/Partner.java
-/Users/sanjeevgiri/wenv/axws/ad/src/main/java/com/sarad/shinyapp/ad/Ad.java
-/Users/sanjeevgiri/wenv/axws/ad/src/main/java/com/sarad/shinyapp/ad/AdMapper.java
-/Users/sanjeevgiri/wenv/axws/ad/src/main/java/com/sarad/shinyapp/ad/AdRepository.java
+/Users/sanjeevgiri/wenv/axws/shiny-application/src/main/java/com/sarad/shinyapp/ad/AdMapper.java
+/Users/sanjeevgiri/wenv/axws/shiny-application/src/main/java/com/sarad/shinyapp/ShinyApplication.java
+/Users/sanjeevgiri/wenv/axws/shiny-application/src/main/java/com/sarad/shinyapp/ad/AdRepository.java
+/Users/sanjeevgiri/wenv/axws/shiny-application/src/main/java/com/sarad/shinyapp/ad/AdService.java
+/Users/sanjeevgiri/wenv/axws/shiny-application/src/main/java/com/sarad/shinyapp/ad/Ad.java
+/Users/sanjeevgiri/wenv/axws/shiny-application/src/main/java/com/sarad/shinyapp/ad/AdResource.java
+/Users/sanjeevgiri/wenv/axws/shiny-application/src/main/java/com/sarad/shinyapp/ad/AdDTO.java

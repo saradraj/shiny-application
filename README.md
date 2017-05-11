@@ -1,3 +1,9 @@
+Instructions:
+
+git clone https://saradraj@github.com/saradraj/shiny-application.git 
+cd shiny-application
+mvn spring-boot:run
+
 The following are not required but might be nice additions to the exercise.
 
 * Describe a fault tolerant deployment topology for your application, and the types of failures it would and would not be resilient to.
