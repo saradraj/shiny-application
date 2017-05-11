@@ -1,0 +1,5 @@
+com/sarad/shinyapp/ad/AdRepository.class
+com/sarad/shinyapp/ad/AdMapper.class
+com/sarad/shinyapp/ad/AdService.class
+com/sarad/shinyapp/ad/Ad.class
+com/sarad/shinyapp/ad/AdDTO.class
